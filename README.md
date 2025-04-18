@@ -10,7 +10,7 @@ The reason I selected this scraper over the other one is because I was more fami
   - I had to parse the data with every part of the columns to get the information
   - After that I just had to meet the conditions for each of the programs to find and print the specific instructions
 ### The total time:
-  - For me to complete this part of the assignment iy was a couple days since I spread it however, it didn't take long to use beautiful soup and after understanding it, it became easier to use
+  - For me to complete this part of the assignment it did take a couple days since I spread it however, it didn't take long to use beautiful soup and after understanding it, it became easier to use
 
 ## ScrapeGraphAI
 ### Prompts:
