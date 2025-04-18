@@ -10,7 +10,7 @@ The reason I selected this scraper over the other one is because I was more fami
   - I had to parse the data with every part of the columns to get the information
   - After that I just had to meet the conditions for each of the programs to find and print the specific instructions
 ### The total time:
-  - For me to complete this part of the assignment it did take a couple days since I spread it however, it didn't take long to use beautiful soup and after understanding it, it became easier to use
+  - For me to complete this part of the assignment it did take a couple days since I spread it however, it didn't take long to use beautiful soup and after understanding it, it became easier to use. 
 
 ## ScrapeGraphAI
 ### Prompts:
@@ -39,4 +39,5 @@ The reason I selected this scraper over the other one is because I was more fami
       - I put debugging statements to try and figure out the problem however, never was able to fully fix this problem
   - My beautiful soup codes didn't have many challenges besides just formating everything correctly and beginning the scraping process
       - Once I was able to scrape the file I didn't have many issues
-  - I will say if I did have to choose between BeautifulSoup and ScrapeGraphAI I would choose BeautifulSoup because it was much easier to understand and code while getting actual outputted examples
+  - I will say if I did have to choose between BeautifulSoup and ScrapeGraphAI I would choose BeautifulSoup because it was much easier to understand and code while getting actual outputted examples.
+    - The ScraperGraphAI also took twice as long to complete compared to BeautifulSoup
