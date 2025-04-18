@@ -9,6 +9,7 @@ The reason I selected this scraper over the other one is because I was more fami
   -Then I started coding and extracting the fields needed for each of the 8 program reports
   -I had to parse the data with every part of the columns to get the information
   -After that I just had to meet the conditions for each of the programs to find and print the specific instructions
-## The total time for me to complete this part of the assignment was a couple days since I spread it however, it didn't take long to use beautiful soup and after understanding it, it became easier to use
+## The total time 
+  - For me to complete this part of the assignment iy was a couple days since I spread it however, it didn't take long to use beautiful soup and after understanding it, it became easier to use
 
 # ScrapeGraphAI
