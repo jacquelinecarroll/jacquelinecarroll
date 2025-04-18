@@ -14,7 +14,7 @@ The reason I selected this scraper over the other one is because I was more fami
 
 ## ScrapeGraphAI
 ### Prompts:
-  - To extract the data I used the natural language prompts for each of the programs tweaking it to the specific instrunctions
+  - To extract the data I used the natural language prompts for each of the programs tweaking it to the specific instructions
   - An example of the one I used for aiF9only:
     - "From the Wikipedia page List_of_Falcon_9_first-stage_boosters, extract all Falcon 9 launches. "
         "For each launch, return: booster_id, block_version, flight_number, flight_type (F9/FH), "
